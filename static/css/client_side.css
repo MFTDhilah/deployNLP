@@ -245,7 +245,7 @@ footer .glyphicon {
   width:245px;
   max-width: 55vw;
   max-height:100vh;
-  border-radius:5px;  
+  border-radius:10px;  
 }
 
 .chat-box2 {
@@ -256,7 +256,7 @@ footer .glyphicon {
   width:245px;
   max-width: 55vw;
   max-height:100vh;
-  border-radius:5px;  
+  border-radius:10px;  
 }
 
 .chat-box-toggle1 {
@@ -427,7 +427,7 @@ footer .glyphicon {
   margin-left:10px; 
   position:relative;
   margin-bottom:20px;
-  border-radius:30px;
+  border-radius:10px;
   word-wrap: break-word;
 }
 
@@ -436,10 +436,10 @@ footer .glyphicon {
   padding:10px 15px 10px 15px;  
   max-width:75%;
   float:left;
-  margin-left:10px; 
+  margin-left:-5px; 
   position:relative;
   margin-bottom:20px;
-  border-radius:30px;
+  border-radius:10px;
   word-wrap: break-word;
 }
 
@@ -449,7 +449,7 @@ footer .glyphicon {
 
 .chat-msg.self > .cm-msg-text1 {  
   float:right;
-  margin-right:10px;
+  margin-right:-10px;
   background: #cc0000;
   color:white;
 }
